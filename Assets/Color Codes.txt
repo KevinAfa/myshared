@@ -1,0 +1,12 @@
+    COLOR
+orange - #FD6C30
+blue - #05B2F6
+black - #000000
+white - #FFFFFF
+Gray - #707070
+light gray - #F1EFEF
+Background Color - #FBFBFB
+
+
+
+Font - Robotto Font family
